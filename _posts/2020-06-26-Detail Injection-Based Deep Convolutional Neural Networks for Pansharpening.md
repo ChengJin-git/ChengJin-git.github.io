@@ -12,7 +12,7 @@ The fusion of high spatial resolution panchromatic (PAN) data with simultaneousl
 ![](/assets/images/IEEE_TGRS_Fusionnet_schematic.png)
 #### Downloads
 
-Full paper: [click here](assets/files/thesis/IEEE_TGRS_Fusionnet.pdf)
+Full paper: [click here](https://ChengJin-git.github.io/files/thesis/IEEE_TGRS_Fusionnet.pdf)
 
 Tensorflow code: [click here](https://github.com/liangjiandeng/FusionNet)
 
