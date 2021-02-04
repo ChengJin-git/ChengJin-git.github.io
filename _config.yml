@@ -7,7 +7,7 @@ url           : https://ChengJin-git.github.io/ # site url
 baseurl       : "" # apply repo name like "/myproject" if used under gh-pages branch, else (under master branch) just leave empty/blank
 cover         : "" # image uri like logo/cover image for site seo
 
-google_analytics  : UA-XXXXX-XX
+google_analytics  : UA-188928716-1
 twitter_username  : "Cheng_Jin_UESTC"
 # facebook_username : ""
 # linkedin_username : ""
