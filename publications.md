@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Home
-permalink: /publications/
+permalink: /publications
 ---
 
 {% include intro.html %}

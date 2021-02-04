@@ -9,10 +9,10 @@ cover         : "" # image uri like logo/cover image for site seo
 
 google_analytics  : UA-XXXXX-XX
 twitter_username  : "Cheng_Jin_UESTC"
-# facebook_username : "dhawaljoh"
-# linkedin_username : "dhawaljoh"
+# facebook_username : ""
+# linkedin_username : ""
 comments_enabled  : false #  if enabled (set to true), please provide your disqus_username
-disqus_shortname  : "dhawaljoh"
+disqus_shortname  : "pj-blog"
 postshare_enabled : true
 
 # Build settings
