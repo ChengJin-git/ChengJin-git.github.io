@@ -19,4 +19,4 @@ I was born in Dongguan, China, after spending eighteen years of my life there, I
 ### News
 
 - Excited to join [<span style="color: #FF9900">Dr. Sanjay Kharche</span>](https://kcru.lawsonresearch.ca/research/srk/index.html){:target="_blank"}'s team in July 2021 as an [<span style="color: #528bd1">CSC(China Scholarship Council)</span>](https://www.csc.edu.cn/)-sponsored internship hold by [<span style="color: #c93e3e">MITACS</span>](https://www.mitacs.ca/) for 12 weeks.
-- 1 paper accepted at *IEEE TGRS* on [<span style="color: #a3b278">Detail Injection-Based Deep Convolutional Neural Networks for Pansharpening</span>](https://chengjin-git.github.io//2020/Detail-Injection-Based-Deep-Convolutional-Neural-Networks-for-Pansharpening/)
+- 1 paper accepted at *IEEE Transactions of Geoscience and Remote Sensing* on [<span style="color: #a3b278">Detail Injection-Based Deep Convolutional Neural Networks for Pansharpening</span>](https://chengjin-git.github.io//2020/Detail-Injection-Based-Deep-Convolutional-Neural-Networks-for-Pansharpening/)
