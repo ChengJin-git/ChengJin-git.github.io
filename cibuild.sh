@@ -1,11 +1,8 @@
 #!/usr/bin/env bash
 set -e # halt script on error
 
-# bundle exec jekyll build
 # bundle exec htmlproofer ./_site --disable-external
-
-set -e
 
 gem install bundler
 bundle install
-gem build thinkspace.gemspec
+bundle exec jekyll build
