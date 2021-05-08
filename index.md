@@ -9,7 +9,7 @@ permalink: /
 	<script src="https://kit.fontawesome.com/be82e3287f.js" crossorigin="anonymous"></script>
 </head>
 
-**Cheng Jin** <br>  Undergraduate Student, UESTC <br>    Email: <a href="mailto: Cheng.Jin@std.uestc.edu.cn">Cheng.Jin@std.uestc.edu.cn</a><br> <a href="https://github.com/ChengJin-git" target="_blank"><i class="fab fa-github" href="#"></i></a> / <a href="https://scholar.google.com/citations?user=DFMxV_oAAAAJ" target="_blank"><i class="fas fa-graduation-cap" href="#"></i></a> / <a href="https://twitter.com/Cheng_Jin_UESTC" target="_blank"><i class="fab fa-twitter" href="#"></i></a> | ![Cheng](/assets/images/me.jpeg){:height=290px" width="120px" style="float: right"}
+**Cheng Jin (金诚)** <br>  Undergraduate Student, UESTC <br>    Email: <a href="mailto: Cheng.Jin@std.uestc.edu.cn">Cheng.Jin@std.uestc.edu.cn</a><br> <a href="https://github.com/ChengJin-git" target="_blank"><i class="fab fa-github" href="#"></i></a> / <a href="https://scholar.google.com/citations?user=DFMxV_oAAAAJ" target="_blank"><i class="fas fa-graduation-cap" href="#"></i></a> / <a href="https://twitter.com/Cheng_Jin_UESTC" target="_blank"><i class="fab fa-twitter" href="#"></i></a> | ![Cheng](/assets/images/me.jpeg){:height=290px" width="120px" style="float: right"}
 
 Hi, welcome to my corner of the Internet!
 
