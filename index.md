@@ -13,7 +13,7 @@ permalink: /
 
 Hi, welcome to my corner of the Internet!
 
-I was born in Dongguan, China, after spending eighteen years of my life there, I was admitted to [<span style="color: #d16952">University of Electronic Science and Technology of China(UESTC, 电子科技大学)</span>](https://en.uestc.edu.cn){:target="_blank"} when I was 18 years old. Thereafter, It is my second year at the Innovation Center of UESTC, learning and pursuing my research interest in deep learning under my supervisor [<span style="color: #e6ce20">Dr. Liang-Jian Deng</span>](https://liangjiandeng.github.io/){:target="_blank"}. Now I am focusing on Graph Convolutional Neural Network implementation in Computer Vision.
+I was born in Dongguan, China, after spending eighteen years of my life there, I was admitted to [<span style="color: #d16952">University of Electronic Science and Technology of China (UESTC, 电子科技大学)</span>](https://en.uestc.edu.cn){:target="_blank"} when I was 18 years old. Thereafter, It is my second year at the Innovation Center of UESTC, learning and pursuing my research interest in deep learning under my supervisor [<span style="color: #e6ce20">Dr. Liang-Jian Deng</span>](https://liangjiandeng.github.io/){:target="_blank"}. Now I am focusing on Single Image Super-resolution in Computer Vision.
 {: style="text-align: justify;"} 
 
 ### News
