@@ -22,7 +22,7 @@ where:
 - The escape direction of the enemy ship is at an angle of [<span style="color: #405cc2">θ</span>]() with the x-axis.
 
 ### Downloads
-Full paper(in Simplified Chinese): [click here](https://ChengJin-git.github.io/files/thesis/SICM_Diff_model.pdf)
+Full paper (in Simplified Chinese): [click here](https://ChengJin-git.github.io/files/thesis/SICM_Diff_model.pdf)
 
 #### Reference
 ```bib
