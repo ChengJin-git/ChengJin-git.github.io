@@ -17,8 +17,8 @@ I was born in Dongguan, China, after spending eighteen years of my life there, I
 {: style="text-align: justify;"} 
 
 ### News
-- 1 paper is preparing for [<span style="color: #d4e2ff">Association for the Advancement of Artificial Intelligence (AAAI) </span>](https://aaai.org/Conferences/AAAI-21/) conference.
-- Preparing for [<span style="color: #d4e2ff">National University Students' Opt-Sci-Tech Competition</span>](http://gd.p.moocollege.com/home)
+- 1 paper is preparing for [<span style="color: #f18ef6">Association for the Advancement of Artificial Intelligence (AAAI) </span>](https://aaai.org/Conferences/AAAI-21/) conference.
+- Preparing for [<span style="color: #cbf68e">National University Students' Opt-Sci-Tech Competition</span>](http://gd.p.moocollege.com/home)
 - 1 paper received minor revision at *Information Fusion*.
 - 2 papers accepted at *International Geoscience and Remote Sensing Symposium*, detailed files would be updated until the papers are fully revised.     
 - Excited to join [<span style="color: #FF9900">Dr. Sanjay Kharche</span>](https://kcru.lawsonresearch.ca/research/srk/index.html){:target="_blank"}'s team in July 2021 as an [<span style="color: #528bd1">Mitacs</span>](https://www.mitacs.ca/)-sponsored internship for 12 weeks.
