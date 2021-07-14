@@ -20,7 +20,7 @@ I was born in Dongguan, China, after spending eighteen years of my life there, I
 - 1 paper is preparing for [<span style="color: #f18ef6">Association for the Advancement of Artificial Intelligence (AAAI) </span>](https://aaai.org/Conferences/AAAI-21/) conference.
 - Preparing for [<span style="color: #e0e051">National University Students' Opt-Sci-Tech Competition</span>](http://gd.p.moocollege.com/home)
 - 1 paper received minor revision at *Information Fusion*.
-- 2 papers accepted at *International Geoscience and Remote Sensing Symposium*, detailed files would be updated until the papers are fully revised.     
+- 2 papers accepted at *International Geoscience and Remote Sensing Symposium*, detailed codes would be updated as soon as possible.     
 - Excited to join [<span style="color: #FF9900">Dr. Sanjay Kharche</span>](https://kcru.lawsonresearch.ca/research/srk/index.html){:target="_blank"}'s team in July 2021 as an [<span style="color: #528bd1">Mitacs</span>](https://www.mitacs.ca/)-sponsored internship for 12 weeks.
 - Won the first price at the provincinal level of [<span style="color: ##d4ffe4">CUMCM</span>](http://en.mcm.edu.cn/)-2020.
 - 1 paper accepted at *IEEE Transactions of Geoscience and Remote Sensing* on [<span style="color: #a3b278">Detail Injection-Based Deep Convolutional Neural Networks for Pansharpening</span>](https://chengjin-git.github.io//2020/Detail-Injection-Based-Deep-Convolutional-Neural-Networks-for-Pansharpening/).
