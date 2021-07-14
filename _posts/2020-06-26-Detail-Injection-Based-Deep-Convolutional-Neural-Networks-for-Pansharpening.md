@@ -19,7 +19,7 @@ Tensorflow code: [click here](https://github.com/liangjiandeng/FusionNet)
 #### Reference
 ```bib
 @ARTICLE{fusionnet,
-author={Liang-Jian Deng, Gemine Vivone, Cheng Jin, Jocelyn Chanussot},
+author={Liang-Jian Deng, Gemine Vivone, Cheng Jin and Jocelyn Chanussot},
 journal={IEEE Transactions on Geoscience and Remote Sensing},
 title={Detail Injection-Based Deep Convolutional Neural Networks for Pansharpening},
 year={2020},

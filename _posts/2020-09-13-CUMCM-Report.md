@@ -11,10 +11,10 @@ In this paper, we analyze the mechanism of the heat transfer process in the cent
 #### Validation of the Proposed Model
 According to the initial problem below, 
 ![](/assets/images/CUMCM_2020_validation_1.png)
-our model have shown agreement with adduced noise-effected input temperature data.
+our model have shown agreement with adduced noise-effected input temperature data. For detailed modeling process, please refer to the original report.
 ![](/assets/images/CUMCM_2020_validation_2.png)
 #### Downloads
 
-Full paper (in Simplified Chinese): [click here](https://ChengJin-git.github.io/files/report/CUMCM_2020_Report.pdf)
+Full report (in Simplified Chinese): [click here](https://ChengJin-git.github.io/files/report/CUMCM_2020_Report.pdf)
 
 
